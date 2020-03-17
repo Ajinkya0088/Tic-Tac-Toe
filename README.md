@@ -8,4 +8,4 @@ This is simple game using HTML ,CSS and  JavaScript for fun purpose.
 
 2)open game.html in brower and enjoy playing with anyone.
 
-![alt-text](gif.mp4)
+![alt-text](image/gif.gif)
